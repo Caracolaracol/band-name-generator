@@ -52,7 +52,7 @@ print("b: " + b)
 # 100daysofcode 
 # band name generator
 print("Hello, welcome to the band name generator")
-city = input("what's name of the city you grew up in?")
-pet = input("what's name of your pet?")
+city = input("what's name of the city you grew up in?\n")
+pet = input("what's name of your pet?\n")
 
 print("your band name should be " + city + " " + pet )
